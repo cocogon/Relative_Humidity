@@ -2,6 +2,8 @@
 Data and scripts for the paper 'Relative humidity predicts day-to-day variations in COVID-19 cases in the city of Buenos Aires'
 https://www.medrxiv.org/content/10.1101/2021.01.29.21250789v2
 
+The work was accepted for publication in Environmental Science and Technology, https://doi.org/10.1021/acs.est.1c02711 
+
 This project is licensed under the terms of the CC BY-NC-ND 4.0 license.
 
 
